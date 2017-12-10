@@ -1,0 +1,2 @@
+# JavaSampleSingletonPatterns
+Sample singleton implementations.
